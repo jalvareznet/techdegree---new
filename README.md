@@ -1,2 +1,2 @@
-# techdegree---new
-Just trying GitHub
+# techdegree new
+Just trying GitHub. Viewing changes.
